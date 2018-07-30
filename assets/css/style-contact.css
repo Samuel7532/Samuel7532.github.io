@@ -1,0 +1,75 @@
+
+body {
+    background-image: url("../images/zig zag wool.png");
+
+}
+
+
+.head {color: rgb(0, 0, 0);
+    max-width:960px;
+    margin:0px 45px 0px 45px;
+    }
+
+
+
+header {box-sizing: content-box;
+        border-color:gray;
+        border-style:solid;
+        height:62px;
+        background-color: #ffffff;
+        border-right:none;
+        border-top:none;
+        border-left:none;
+    }
+
+#h1 {background-color:#4aaaa5;
+    padding-top: 20px;
+    padding-bottom:10px;
+    float: left;
+    color:#ffffff;
+    margin-top:-16px;
+    margin-left: 90px;
+    }
+
+.link {float: right;
+    display: inline;
+    margin-top:20px;
+    margin-right:5px;
+    font-size:18px;
+    float:right;
+}
+
+#container {
+    max-width:960px;
+    padding-top:10px;
+    margin:60px 60px 30px 139px;
+    background-color: #ffffff;
+    text-align: justify;
+    text-justify: auto;
+    border-style:inset;
+    border-color:darkgray;
+    border-width:3px;
+}
+
+form {margin-left: 50px;
+    padding-bottom: 10px;}
+
+h2{ padding-left: 50px;
+    padding-bottom: 40px;
+    color: teal;
+}
+
+
+
+img {float: left;
+    box-align: left;
+    margin:10px;
+}
+
+footer{background-color: #666666;
+    border-top-style:solid;
+    border-color: blue;
+    text-align: center;
+    padding:20px;
+    margin-top:136px;
+}
